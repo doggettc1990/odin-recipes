@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt at creating a webpage and commiting it through git/github.  I hope to mostly get smoother at using the terminal and VS code.  Memorizing the commands at thsi point is just a bonus.  I will review what I learn when I get done!
